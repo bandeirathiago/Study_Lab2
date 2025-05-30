@@ -39,7 +39,7 @@ Texto ou bordas sutis - #2F2F2F - Legível em qualquer fundo claro, ótimo para 
 
 ---
 ## 📸 Capturas de Tela
-![Dashboard Power BI](./imagens/dashboard.png)
+![Dashboard Power BI](./imagens/Dashboard_de_Vendas.jpg)
 
 ---
 ## 🔗 [Lab2_Dashboard](https://bit.ly/3FpIJ15)

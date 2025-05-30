@@ -27,8 +27,8 @@ Visando padronizar meus relatorios e trazer um aspecto de seriedade sem muita di
 ---
 
 ## 📈 Cores utilizadas no visual
-Uso sugerido - Hex - Comentário
-Indicador positivo - #6A994E - Transmite crescimento com sobriedade.
+Uso sugerido - Hex - Comentário<br>
+Indicador positivo - #6A994E - Transmite crescimento com sobriedade.<br>
 Indicador negativo - #BC4749 - Forte e profissional, sem exageros visuais.
 Indicador neutro - #A1A1A1 - Ideal para representar estabilidade ou valores nulos.
 Fundo principal - #F2F2F2 - Ótimo para manter contraste com os dados sem pesar visualmente.

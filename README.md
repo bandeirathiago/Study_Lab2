@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6e5df3b-8dd1-4cbd-a206-5c918e715082)# 📊 LAB 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
+## 📊 LAB 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
 🔎 Estudos iniciais das formulas basicas e teste de paletas de cores. 
 

@@ -39,4 +39,4 @@ Texto ou bordas sutis - #2F2F2F - Legível em qualquer fundo claro, ótimo para 
 
 ---
 
-## 🔗 https://app.powerbi.com/groups/me/reports/3c0ef746-c67c-42e9-b372-3ce6ebf11893/1ab9280de1ed7b330d6b?experience=power-bi
+## 🔗 [https://app.powerbi.com/groups/me/reports/3c0ef746-c67c-42e9-b372-3ce6ebf11893/1ab9280de1ed7b330d6b?experience=power-bi](https://bit.ly/3FpIJ15)

@@ -38,5 +38,8 @@ Fundo alternativo - #E6E1D3 - Cria separação de seções ou painéis mantendo 
 Texto ou bordas sutis - #2F2F2F - Legível em qualquer fundo claro, ótimo para rótulos.
 
 ---
+## 📸 Capturas de Tela
+![Dashboard Power BI](./imagens/dashboard.png)
 
+---
 ## 🔗 [Lab2_Dashboard](https://bit.ly/3FpIJ15)
